@@ -2,8 +2,10 @@
 # Fraud and expected fraud in crypto
 
  ## FTX:
+ 
+ ![sambankmanfraud](https://user-images.githubusercontent.com/114794470/209587519-104e9d16-d53e-4590-9ec2-54e9d60fd855.jpeg)
 
-- Daily trading volume of Bitcoin USDT Futures on Binance is multiple times bigger than FTX USD perpetual contract.
+ - Daily trading volume of Bitcoin USDT Futures on Binance is multiple times bigger than FTX USD perpetual contract.
 
 - Starting on October 25th 2022, after Bitcoin consolidated/ranged for months, it had a massive upside move (relative to recent PA)
 
