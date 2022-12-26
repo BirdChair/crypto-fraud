@@ -1,5 +1,5 @@
 
-# Fraud and expected fraud in crypto
+#                                                          Fraud and expected fraud in crypto
 
  ## FTX observations:
 
