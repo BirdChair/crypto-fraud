@@ -1,7 +1,7 @@
 
-#                                                          Fraud and expected fraud in crypto
+# Fraud and expected fraud in crypto
 
- ## FTX observations:
+ ## FTX:
 
 - Daily trading volume of Bitcoin USDT Futures on Binance is multiple times bigger than FTX USD perpetual contract.
 
