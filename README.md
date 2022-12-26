@@ -1,5 +1,5 @@
 
-## Potential (Not so potential anymore, lol) cases of fraud in crypto
+## Fraud and expected fraud in crypto
 
 - Daily trading volume of Bitcoin USDT Futures on Binance is multiple times bigger than FTX USD perpetual contract.
 
